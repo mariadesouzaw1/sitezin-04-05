@@ -1,0 +1,23 @@
+
+h1{
+    background-color: #c6c6c6;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 440px;
+}
+
+body{
+    background-color: #c6c6c6;
+    background-image: url(../img/fundo_dylan.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-left: 440px;
+    margin-right: 50px;
+    line-height: 1.5;
+    text-align: justify;
+}
